@@ -1,2 +1,7 @@
 Flask
+pdfplumber
+python-docx
+Werkzeug
+google-generativeai
+fpdf
 gunicorn
