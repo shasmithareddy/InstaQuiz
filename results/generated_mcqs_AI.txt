@@ -1,0 +1,80 @@
+## MCQ 1
+Question: What does AI stand for?
+A) Augmented Intelligence
+B) Artificial Intelligence
+C) Advanced Intelligence
+D) Alternative Intelligence
+Correct Answer: B
+
+## MCQ 2
+Question: When did the field of AI formally emerge?
+A) 1945
+B) 1956
+C) 1960
+D) 1980
+Correct Answer: B
+
+## MCQ 3
+Question: Which of the following is NOT a core concept in AI?
+A) Algorithms
+B) Models
+C) Data
+D) Quantum Entanglement
+Correct Answer: D
+
+## MCQ 4
+Question: What is Narrow AI also known as?
+A) Strong AI
+B) General AI
+C) Weak AI
+D) Superintelligent AI
+Correct Answer: C
+
+## MCQ 5
+Question: Which subset of machine learning uses multi-layered neural networks?
+A) Supervised Learning
+B) Unsupervised Learning
+C) Reinforcement Learning
+D) Deep Learning
+Correct Answer: D
+
+## MCQ 6
+Question: Which AI field focuses on enabling machines to understand human language?
+A) Computer Vision
+B) Robotics
+C) Natural Language Processing
+D) Expert Systems
+Correct Answer: C
+
+## MCQ 7
+Question: What is a key ethical concern related to AI?
+A) Algorithmic bias
+B) Increased job opportunities
+C) Improved medical diagnostics
+D) Enhanced educational personalization
+Correct Answer: A
+
+## MCQ 8
+Question:  What is a major challenge in developing robust AI systems?
+A) Abundance of high-quality data
+B) Low computational costs
+C) Obtaining high-quality data
+D) Perfectly aligned AI behavior with human values from the outset
+Correct Answer: C
+
+## MCQ 9
+Question: Which of these is NOT mentioned as a tool or framework used in AI development?
+A) TensorFlow
+B) PyTorch
+C) Java
+D) Scikit-learn
+Correct Answer: C
+
+
+## MCQ 10
+Question:  What type of AI surpasses human intelligence across all domains, at least theoretically?
+A) Narrow AI
+B) General AI
+C) Superintelligent AI
+D) Expert Systems
+Correct Answer: C
